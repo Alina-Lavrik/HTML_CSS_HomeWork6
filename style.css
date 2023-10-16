@@ -7,7 +7,23 @@ a {
     text-decoration: none;
 }
 
-.header {
+.image {
+    margin-top: 45px;
+}
+
+
+.home_link {
+    margin-top: 51px;
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.header_link {
+    margin-top: 51px;
     color: #000;
     font-family: Gilroy-Medium;
     font-size: 14px;
@@ -16,7 +32,13 @@ a {
     line-height: normal;
 }
 
+.top_content{
+    margin-top: 94.71px;
+    margin-bottom: 162.45px;
+}
+
 .title {
+    margin-bottom: 17px;
     width: 522px;
     height: 222px;
     flex-shrink: 0;
@@ -31,6 +53,11 @@ a {
     font-weight: 400;
     line-height: normal;
 }
+
+.top_buttons{
+    margin-top: 37px;
+}
+
 .button {
     width: 140px;
     height: 50px;
@@ -47,3 +74,9 @@ a {
     font-weight: 400;
     line-height: normal;
 }
+
+.logos {
+    margin-top: 97px;
+    margin-bottom: 96px;
+}
+
